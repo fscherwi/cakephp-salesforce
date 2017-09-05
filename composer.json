@@ -6,11 +6,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.4.16",
-        "cakephp/cakephp": "~3.0",
-        "developerforce/force.com-toolkit-for-php": "^1.0@dev"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "*"
+        "developerforce/force.com-toolkit-for-php": "^v27.0.3"
     },
     "autoload": {
         "psr-4": {
